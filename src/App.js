@@ -31,6 +31,7 @@ export default class App extends Component {
     
       />
     <Navbar/>
+//         this is navbar
     {/* <News  category="general"/> */}
     <Routes>
           {/* <Route path="/" key="general"><News  category="general"/></Route> */}
